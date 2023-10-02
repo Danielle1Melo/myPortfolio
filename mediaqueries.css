@@ -6,7 +6,7 @@
     .about-containers {
         flex-wrap: wrap;
     }
-      .menu-links{
+    .menu-links{
         border-radius: 10px;
     }
 }
