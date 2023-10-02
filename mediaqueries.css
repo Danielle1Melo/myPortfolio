@@ -5,7 +5,9 @@
     }
     .about-containers {
         flex-wrap: wrap;
-
+    }
+      .menu-links{
+        border-radius: 10px;
     }
 }
 
